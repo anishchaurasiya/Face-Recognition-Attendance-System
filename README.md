@@ -17,4 +17,8 @@ Now run the script and for marking attendance show ur face to webcam
 
 Your webcam output will have a label with ur name if matched
 
+Now u can open the csv file to see the attendance List 
+
+This is scalable u can add as many images, preferrably good quality image
+
 Hurray! you did it
