@@ -7,7 +7,7 @@
 
 -Store all the image/Photos in Imagefolder with name of the file as their name
 
--Locate the ImageFolder in the attendance.py file
+-Locate the ImageFolder in the attendance.py file if its in the same directory skip this 
 
 -Make sure that ur webcam is connected to your Laptop/PC
 
