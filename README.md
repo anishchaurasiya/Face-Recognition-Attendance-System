@@ -1,6 +1,6 @@
 # Face-Recognition-Attendance-System
 
-Step to use it:
+##Steps to use it:
 
 
 -install numpy, cv2, face-Recognition, cmake, dlib, make sure to have visual studio C++ development installed in computer for dlib
